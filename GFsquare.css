@@ -1,0 +1,42 @@
+body{
+    background-image:url(work.2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.first{
+    gap: 100px;
+    padding:10px;
+}
+
+
+.second{
+ display: flex;
+ gap: 40px;
+ margin: 20px;
+align-self: center;
+}
+
+.none{
+    display: flex;
+gap: 100px;
+}
+.third{
+    height: 50px;
+    background-color: black;
+    padding: 10px;
+    margin: 10px;
+border: 20px;
+border-radius: 20px;
+}
+
+.third:hover{
+
+    background-color: blue;
+}
+.h2:hover{
+background-color: black;
+}
+.last:hover{
+    
+}
